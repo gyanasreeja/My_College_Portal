@@ -1,3 +1,4 @@
+This is a college student-management portal with a public campus site and role-based student, staff, and admin workspaces. The user journey spans browsing campus information or submitting an enquiry, registering/logging in, and then managing or viewing academic records. The frontend routes role-specific pages through a shared API client; the FastAPI backend exposes domain routers backed by shared authentication and database layers. The available excerpts show routing and selected data access, but not every router implementation, so unverified links are omitted.
 Home Page:
 <img width="1916" height="924" alt="image" src="https://github.com/user-attachments/assets/fd7e34d0-76da-48d8-9a58-c598672b52e9" />
 Login Page:
@@ -12,6 +13,9 @@ Admissions:
 <img width="1919" height="924" alt="image" src="https://github.com/user-attachments/assets/be0f99c4-5412-4eb8-8780-ba2a0df2c693" />
 Contact Us:
 <img width="1892" height="868" alt="image" src="https://github.com/user-attachments/assets/b26f4385-c073-42c0-948f-5cc1d6d7a2d3" />
+Architecture of Project:
+<img width="7744" height="12111" alt="diagram (2)" src="https://github.com/user-attachments/assets/19483c79-66a8-4ea3-9506-15da60746912" />
+
 
 
 
