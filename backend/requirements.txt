@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+watchfiles
+websockets
+httptools
+colorama
+python-dotenv
+sqlalchemy
+psycopg2-binary
+pydantic[email]
+pydantic-settings
+bcrypt
+PyJWT
+python-multipart
+httpx
